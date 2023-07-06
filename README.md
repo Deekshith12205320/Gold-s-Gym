@@ -1,1 +1,1 @@
-# Gold-s-Gym
+# Gold-s-Gymduc
